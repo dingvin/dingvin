@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dingvin
-- 👀 I’m interested in web3 , music
+- 👀 Been doing a lot of testnet and other web3 stuff lately
 
 <!---
 dingvin/dingvin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
