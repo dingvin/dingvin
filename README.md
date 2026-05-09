@@ -1,14 +1,10 @@
-# Hi, I'm Vin 👋
+# Hi, I'm Dingvin👋
 
 Exploring Web3, automation, and useful tools.
 
 ## Focus
 
-- Web3
-- Testnet
-- Python
-- Node.js
-- JavaScript
+Mostly working on Web3 and testnet-related stuff using Python, Node.js, and JavaScript.
 
 ## About
 
@@ -18,10 +14,6 @@ Projects go public when they’re ready.
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dingvin&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=dingvin&theme=github-dark-blue&hide_border=true" />
 </p>
 
@@ -29,4 +21,4 @@ Projects go public when they’re ready.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/dingvin/dingvin/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+</p>    
